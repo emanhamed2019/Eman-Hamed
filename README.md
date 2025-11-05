@@ -20,5 +20,20 @@ Performed quality control, trimming, alignment, quantification, differential exp
 - Workflow automation: Snakemake  
 - Programming: Python, R, Bash
 
+### Genes Responsible for Lactic Acid and Polysaccharide Production
+A comparative genomics study of 26 *Lacticaseibacillus* genomes aimed at identifying which species possess the operons (LDH and EpsG) responsible for lactic acid and exopolysaccharide (EPS) production.  
+Performed gene prediction, annotation, operon comparison, and phylogenetic analysis to determine lactic acid and EPS-producing strains.
+
+**Tools & Software:**  
+- Genome retrieval: NCBI GenBank  
+- Gene prediction: Prodigal (v2.6.3)  
+- Annotation: RAST (v2.0)  
+- Comparative and operon analysis: BioCyc (v27.0)  
+- Phylogenetic analysis: MEGA (v11.0)  
+- Alignment & filtering: BioCyc multi-genome alignment  
+- Languages/Environment: Python, R, Bash, Conda, Git, Linux
+
+**Focus:**  
+Functional genomics to identify *Lacticaseibacillus* species capable of producing lactic acid and polysaccharides, contributing to sustainable microbial biotechnology applications integrating both wet-lab and bioinformatics analyses.
 
 
