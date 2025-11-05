@@ -9,7 +9,7 @@ Bioinformatician specializing in NGS-based miRNA and RNA-seq data analysis, with
 
 # Selected Projects
 ### Hepatocellular carcinoma miRNA Meta-analysis
-Analysis of miRNA NGS data from 7 studies to identify biomarkers in hepatocellular carcinoma. 
+Analysis of miRNA NGS data from 7 independent studies (total of 303 samples) to identify potential biomarkers in hepatocellular carcinoma.  
 Performed quality control, trimming, alignment, quantification, differential expression, and functional enrichment analyses.
 
 **Tools & Software:**  
